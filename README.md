@@ -8,3 +8,5 @@ A blockchain based Supply Chain Management where we will be assigning the UID to
 
 
 Website's sneakpeek:
+![image](https://user-images.githubusercontent.com/94098866/219936013-c46ea5f7-f05c-47d3-aed0-09eca5c529c4.png)
+![image](https://user-images.githubusercontent.com/94098866/219936032-dffb37c8-6c21-46c4-9270-d240c9cb22a2.png)
