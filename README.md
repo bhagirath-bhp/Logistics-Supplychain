@@ -14,3 +14,5 @@ Website's sneakpeek:
 ![image](https://user-images.githubusercontent.com/94098866/219936092-bc612076-0864-4274-a5c7-64175750cb10.png)
 ![image](https://user-images.githubusercontent.com/94098866/219936106-44a473fb-64c9-4818-bb61-9d20c3b4e1c2.png)
 ![image](https://user-images.githubusercontent.com/94098866/219936115-ec3613a3-39ae-4940-8865-95661ed94f6b.png)
+![image](https://user-images.githubusercontent.com/94098866/219936131-db25d10f-19a4-4772-bf48-5ce0c582b7f9.png)
+![image](https://user-images.githubusercontent.com/94098866/219936144-62a7d25a-4f66-4d50-9dd3-1fe8a8625261.png)
